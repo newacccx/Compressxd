@@ -14,19 +14,19 @@
         },
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "6381607"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "9799ad1623afe9bad664501f984b71fe"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "5918933862:AAFra62rdQ9HcvgKDzmQTP465y8agW9Bt8Y"
         },
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "1258695344"
         },
         "LOG_CHANNEL": {
             "description": "Input Log Channel Id",
@@ -75,7 +75,7 @@
         },
         "DATABASE_URL": {
             "description": "Mongodb Database Url",
-            "value": ""
+            "value": "mongodb+srv://autofilter:autofilter@cluster0.nncrrgy.mongodb.net/?retryWrites=true&w=majority"
         },
         "FFMPEG": {
             "description": "Put your FFMPEG code.",
