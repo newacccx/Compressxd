@@ -17,9 +17,9 @@ from decouple import config
 try:
     ALWAYS_DEPLOY_LATEST = config("ALWAYS_DEPLOY_LATEST", default=False, cast=bool)
     ALLOW_ACTION = config("ALLOW_ACTION", default=True, cast=bool)
-    APP_ID = config("APP_ID", default=6, cast=int)
-    API_HASH = config("API_HASH", default="eb06d4abfb49dc3eeb1aeb98ae0f581e")
-    BOT_TOKEN = config("BOT_TOKEN")
+    APP_ID = config("6381607", default=6, cast=int)
+    API_HASH = config("9799ad1623afe9bad664501f984b71fe", default="eb06d4abfb49dc3eeb1aeb98ae0f581e")
+    BOT_TOKEN = config("5690536580:AAG3v5sTFBE_dDNnKASsaTZ1c0ZoJNtFGik")
     CACHE_DL = config("CACHE_DL", default=False, cast=bool)
     CAP_DECO = config("CAP_DECO", default="◉")
     C_LINK = config("C_LINK", default="@ANi_MiNE")
